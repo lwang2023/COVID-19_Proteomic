@@ -1,1 +1,4 @@
 COVID-19 plasma proteomic profiling results
+supplemental_model1.csv contain the results of COVID-19 vs control
+supplemental_model2.csv contain the results of Ventilation vs no ventilation
+supplemental_model3.csv contain the results of death vs alive
